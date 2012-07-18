@@ -1,0 +1,6 @@
+name: UsefulMobs
+main: mx.consalvo.UsefulMobs.UsefulMobs
+version: 1.0
+description: >
+             A item useful using Mobs.
+commands:
